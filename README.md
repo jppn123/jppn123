@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá! Meu nome é João Pedro Barros
 
-<!--
-**jppn123/jppn123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Tenho 18 anos. 😎
+- Atualmente estou cursando Ciência da Computação. 👩‍💻
+- Aprendendo programação. ☜(ﾟヮﾟ☜)
+---------------------------------------------------------
+<div>
+  <a href="https://github.com/jppn123%22%3E
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jppn123&count_private=true&show_icons=true&theme=dark%22/%3E
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="mailto:jpiluca11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white%22%3E
+</div>
