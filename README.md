@@ -11,5 +11,5 @@
 
 <div>
   <a href="mailto:jpiluca11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white%22%3E
-  ![jp's GitHub stats](https://github-readme-stats.vercel.app/api?username=jppn123&show_icons=true&theme=dracula)
+    ![jp's GitHub stats](https://github-readme-stats.vercel.app/api?username=jppn123&show_icons=true&theme=dracula)
 </div>
