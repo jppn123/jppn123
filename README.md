@@ -1,6 +1,6 @@
 ## Olá! Meu nome é João Pedro Barros
 
-- Tenho 19 anos. 
+- Tenho 22 anos. 
 - Cursando Ciência da Computação. 
 - Aprendendo programação. 
 - Sempre em busca de novos conhecimentos.
